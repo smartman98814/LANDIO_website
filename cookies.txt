@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hs-scripts.com	TRUE	/	FALSE	1999999999	__cf_bm	yKx3TTePyBvvOHEirbt.3jLVIG4mRHex5rsHZ7E_Zc8-1753226394-1.0.1.1-ZIus9_O5NcP.UslhdFNgVq.XLtn.MPIwoP7BSIsL40SfzoSEmJ8BH__ULu82NB4Zq3NSQlsQd9yljeyx.PMs1bJPu2Kor.g9vgZOtCHqLh4
+.yandex.ru	TRUE	/	FALSE	1999999999	bh	YJ+5gMQGag/s69e6D7udubEG1e+fzg4=
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	9g3rktn7LP0UJ1DaL5WzLrT9KE4jDRl4eaFXWwL8AhU-1753233115381-0.0.1.1-604800000
+www.landio.com	TRUE	/	FALSE	1999999999	SameSite	None
+
